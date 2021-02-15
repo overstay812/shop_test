@@ -562,7 +562,7 @@ main {
   }
 }
 
-@media (max-width: 1500px) {
+@media (max-width: 1050px) {
   .left-side {
     display: flex;
     flex-direction: column;
